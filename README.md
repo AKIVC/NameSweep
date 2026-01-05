@@ -26,6 +26,13 @@ This tool is designed for researchers, analysts, journalists, and anyone who nee
 
 ---
 
+## IMPORTANT
+### This project is designed and build for Windows opperating systems it will NOT run on any other os without modification
+- Linux support comming soon
+- MacOS will NEVER be supported
+
+---
+
 ## Quickstart
 
 ### 1. Install dependencies
@@ -144,7 +151,7 @@ colorama
 
 ## License
 
-MIT License — see `LICENSE` file.
+See `LICENSE` file.
 
 ---
 
@@ -161,14 +168,11 @@ Feel free to submit:
 
 ## Roadmap
 
-- HTML report generation  
-- Plugin system for custom engines  
-- Web UI wrapper  
-- API mode for automation  
+- Linux support
+- Plugin system for custom engines
+- Graphical User Interface version
 
 ---
 
 ## Author
-
-Created by **Rhys Edwards**  
-GitHub: *AKIVC*
+Created by: *AKIVC*
